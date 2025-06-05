@@ -31,7 +31,7 @@
 
 ### Prerequisites
 
-- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download)
+- [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download)
 - [SQLite](https://www.sqlite.org/index.html) (optional, unless using external tools)
 - [EF Core CLI tools](https://learn.microsoft.com/en-us/ef/core/cli/dotnet)
 
