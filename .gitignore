@@ -1,0 +1,28 @@
+# Ignore build outputs
+bin/
+obj/
+TestResults/
+
+# Ignore user settings and IDE stuff
+.vscode/
+*.user
+*.suo
+
+# Ignore large or sensitive files
+*.exe
+*.dll
+*.nupkg
+*.iso
+*.vdi
+*.log
+*.db
+*.cache
+
+# Ignore local app data and junk
+AppData/
+.android/
+.idea/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
